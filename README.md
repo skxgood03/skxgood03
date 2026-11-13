@@ -1,11 +1,48 @@
-Hello there 👋
-- 🔭 I’m currently working on backend and frontend development
-- 💡 My main programming language is Python
-- 🚀 I'm proficient in backend frameworks such as Django, Flask, and FastAPI
-- 🧪 I have expertise in automation testing using pytest
-- 🌐 I'm familiar with frontend frameworks and languages such as Vue3, JavaScript, and TypeScript
-- 💾 I've worked with major databases including PostgreSQL and MySQL
-- 💻 I am also skilled in writing shell scripts
-- 🤖 Recently, I’ve been diving into the fascinating field of Artificial General Intelligence (AGI)
-- 🌱 Currently, I’m learning Rust to expand my tech stack
-- Feel free to connect with me! I love making new friends in the tech community and sharing knowledge. Let's create great things together! 🚀
+<div align="center">
+
+# Hi, I'm Xuan 👋
+
+### Full-Stack Engineer · AI Application & Agent Developer
+
+**From backend architecture to intelligent workflows and product delivery.**
+
+Building practical software with Python, modern web technologies, and AI.
+
+[Explore my repositories](https://github.com/skxgood03?tab=repositories) · [Technical notes](https://skxgood03.github.io)
+
+</div>
+
+---
+
+### Engineering Focus
+
+- **Full-Stack Systems** — Building APIs, business services, and web interfaces, connecting backend logic with complete user experiences.
+- **AI Applications & Agents** — Exploring tool calling, stateful workflows, and context management with LangChain and LangGraph.
+- **AI-Assisted Engineering** — Integrating AI coding agents into requirements analysis, architecture design, implementation, debugging, and iteration.
+
+### Technology Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| Backend | Python · Django · Flask · FastAPI |
+| Frontend | Vue 3 · JavaScript · TypeScript · Vite |
+| AI & Agents | LangChain · LangGraph · LLM APIs · Tool Calling |
+| Data | MySQL · PostgreSQL · Redis · Pandas |
+| Infrastructure | Linux · Docker · Nginx · Git · Shell |
+
+### Selected Public Projects
+
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| [Vue3Admin](https://github.com/skxgood03/Vue3Admin) | Web administration interface | Vue 3 · TypeScript |
+| [DBSC](https://github.com/skxgood03/DBSC) | Multibeam sounding data acquisition, processing, and visualization | Python · PyQt5 · NumPy · SQLite |
+
+### Currently Exploring
+
+Building a deeper understanding of agent orchestration, context management, and the engineering decisions that make AI applications reliable and useful.
+
+---
+
+**Beyond code** — Basketball, strength training, reading, and conversations about technology and entrepreneurship.
+
+Open to exchanging ideas and collaborating on useful software.

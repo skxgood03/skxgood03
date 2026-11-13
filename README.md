@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skxgood03.github.io/"><strong>个人博客 · Blog ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://ethan-python-ai.primelarch16.chatgpt.site"><strong>个人博客 · Blog ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://github.com/skxgood03?tab=repositories">Projects ↗</a>
 </p>
 
@@ -83,6 +83,6 @@ I'm deepening my understanding of how models, tools, state, and application logi
 <p align="center">
   <strong>Build with intent. Ship with care.</strong><br/>
   <sub>Basketball · Strength training · Books · Technology &amp; entrepreneurship</sub><br/><br/>
-  <a href="https://skxgood03.github.io/">Read my blog →</a> &nbsp; · &nbsp;
+  <a href="https://ethan-python-ai.primelarch16.chatgpt.site">Read my blog →</a> &nbsp; · &nbsp;
   <a href="https://github.com/skxgood03?tab=repositories">Explore my repositories →</a>
 </p>

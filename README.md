@@ -8,7 +8,7 @@
 
 Building practical software with Python, modern web technologies, and AI.
 
-[Explore my repositories](https://github.com/skxgood03?tab=repositories) · [Technical notes](https://skxgood03.github.io)
+[Explore my repositories](https://github.com/skxgood03?tab=repositories)
 
 </div>
 
